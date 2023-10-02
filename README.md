@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com](https://github.com/R0kkusu/Countries-Rest-API/))
-- Live Site URL: [vercel]
+- Live Site URL: [vercel] https://countries-rest-api-three.vercel.app/
 
 ## My process
 
