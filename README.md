@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github.com](https://github.com/tymino/frontendmentor_rest-countries-api)
-- Live Site URL: [vercel](https://frontendmentor-rest-countries-api-mu.vercel.app/)
+- Solution URL: [github.com](https://github.com/R0kkusu/Countries-Rest-API/))
+- Live Site URL: [vercel]
 
 ## My process
 
